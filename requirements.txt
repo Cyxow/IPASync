@@ -1,0 +1,5 @@
+Twisted~=25.5.0
+ldaptor~=21.2.0
+ldap3~=2.10.2rc2
+python3-ldap~=0.9.8.4
+asn1crypto~=1.5.1
